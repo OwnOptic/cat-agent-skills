@@ -1,0 +1,13 @@
+{
+  "category": "agent-development",
+  "name": "Roast My Agent",
+  "description": "Paste the instructions of your Copilot Studio, declarative or Agent Builder agent and get a funny, kind roast where every joke lands on a real problem, comes with its fix, and ends in a rewritten set of instructions.",
+  "platforms": ["Cowork"],
+  "tags": ["agent-instructions", "copilot-studio", "declarative-agent", "agent-builder", "review", "fun"],
+  "author": "Elliot Margot",
+  "authorUrl": "https://e-margot.ch",
+  "authorGithub": "OwnOptic",
+  "version": "1.0.0",
+  "createdAt": "2026-11-28",
+  "updatedAt": "2026-11-28"
+}
